@@ -16,7 +16,7 @@ Controls:
 [ESC] --> terminate program
 [SPACE] --> print all 65 buffers to console; good for comparing momentary snapshots of values
 
-
+--
 How to use:
 Enter a matching VID and PID from the list of devices and look on the right side for a change in
 value after pressing/releasing a button or moving an analog control. It will display which bits have
@@ -27,7 +27,7 @@ changed.
 What it's good for:
 It's great for identifying which values correlate with the state of which button on a given connected
 device. Then, you know which values to check for when using that device via hidapi.
-
+--
 
 
 Using this program, I have successfully been able to map out the values corresponding to the buttons
