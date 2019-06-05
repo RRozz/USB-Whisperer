@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usb_whisperer_rev", "usb_whisperer_rev\usb_whisperer_rev.vcproj", "{86DAE98A-4806-4081-A2B9-479DF16B09DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DAE98A-4806-4081-A2B9-479DF16B09DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{86DAE98A-4806-4081-A2B9-479DF16B09DB}.Debug|Win32.Build.0 = Debug|Win32
+		{86DAE98A-4806-4081-A2B9-479DF16B09DB}.Release|Win32.ActiveCfg = Release|Win32
+		{86DAE98A-4806-4081-A2B9-479DF16B09DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
