@@ -64,8 +64,8 @@ Xbox 360 wired controller
 
 
 
-* conversion from integer to string representing binary value of that integer may be inefficient
+\*conversion from integer to string representing binary value of that integer may be inefficient
 
-** Some HIDs (keyboard, mouse, tablet) will be listed but, if selected, will not show any change
+\**Some HIDs (keyboard, mouse, tablet) will be listed but, if selected, will not show any change
 in any values. I think this is because the operating system uses drivers that first intercept and
 interpret these devices... but the real, technical reason is out of the scope of my current knowledge.
