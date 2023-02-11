@@ -59,6 +59,7 @@ Logitech G Saitek Pro Flight Switch Panel (i managed to find all switch/knob/lev
 
 Xbox 360 wired controller
 
+Switch wired Controller
 
 
 
